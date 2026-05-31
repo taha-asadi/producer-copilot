@@ -52,3 +52,11 @@ Design Principles
 	•	Guardrails over raw creativity
 	•	Usability over novelty
 	•	Fast iteration loops
+
+Building With AI Assistance
+This project was built with AI assistance as a deliberate part of the workflow, not just for code completion. I used AI as a collaborator for architecture discussions, design tradeoffs, and rapid iteration, while keeping the core decisions, the deterministic-first structure, and the evaluation logic under my own judgment. Part of the point of the project was to practice collaborating thoughtfully with AI to build a real system, rather than treating it as a black box.
+
+What I Learned, and What I'd Explore Next
+The most interesting finding wasn't technical. It was watching how measurable, structured feedback changes the way a producer relates to their own work. Deterministic signals make critique feel objective and actionable in a way that pure generative feedback does not, but they also risk flattening the parts of music that resist measurement.
+
+That tension is the question I keep coming back to: as AI tools take on more of the craft, what happens to the skill, judgment, and creative identity of the people who do the work? Producer Co-Pilot is a small, concrete instance of a much larger question about AI and creative labor, and it's the direction I most want to investigate further.
